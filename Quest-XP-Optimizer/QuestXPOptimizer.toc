@@ -1,0 +1,16 @@
+## Interface: 110002
+## Interface-Classic: 11502
+## Interface-Cata: 40400
+## Title: Quest XP Optimizer
+## Notes: Displays quest XP on map and minimap, calculates XP efficiency, and suggests optimal quest combinations for maximum leveling speed
+## Author: root0emir
+## Version: 1.1.0
+
+Compat.lua
+Core.lua
+Data.lua
+Efficiency.lua
+Combiner.lua
+Tooltip.lua
+WorldMap.lua
+Minimap.lua
